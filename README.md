@@ -2,7 +2,7 @@
 - 👀 I’m interested in java coding and coding overall
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java projects
-- 📫 How to reach me ...
+- 📫 How to reach me shivamverma.2210@gmail.com
 
 <!---
 shibu2210/shibu2210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
